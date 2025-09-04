@@ -1,18 +1,18 @@
-# 👋 Olá! Eu sou a Kathryn Oliveira
+# 👋 Olá! Eu sou a Juan Lucas Alves Archangelo
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F2041&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 Sobre Mim
 
-Sou uma desenvolvedora full stack apaixonada por criar soluções web inovadoras. Tenho experiência tanto no frontend quanto no backend, sempre buscando as melhores práticas e tecnologias mais atuais do mercado.
+Sou um desenvolvedor full stack apaixonada por criar soluções web inovadoras. Tenho experiência tanto no frontend quanto no backend, sempre buscando as melhores práticas e tecnologias mais atuais do mercado.
 
 <div align="center">
   
-![Kathryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathrynOliveira&show_icons=true&theme=dracula&hide_border=true)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanlucasarchangelo&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynOliveira&layout=compact&theme=dracula&hide_border=true)
 
 </div>
@@ -27,7 +27,7 @@ Sou uma desenvolvedora full stack apaixonada por criar soluções web inovadoras
 
 ### ⚙️ Backend
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,c#" />
 </div>
 
 ### 🗄️ Banco de Dados
@@ -62,7 +62,7 @@ Utilizo um sistema de nomenclatura consistente para facilitar a navegação:
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kathrynOliveira&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Juanlucasarchangelo&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -71,8 +71,8 @@ Utilizo um sistema de nomenclatura consistente para facilitar a navegação:
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.olliver18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathryn-oliveira-988533123/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlarchangelo@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-lucas-archangelo-061035180/)
 
 </div>
 
@@ -82,6 +82,6 @@ Utilizo um sistema de nomenclatura consistente para facilitar a navegação:
   
 *"O código é poesia em movimento"* ✨
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=kathrynOliveira&label=Visitantes&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Juanlucasarchangelo&label=Visitantes&countColor=%23263759&style=flat)
 
 </div>
