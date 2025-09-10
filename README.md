@@ -27,7 +27,7 @@ Sou um desenvolvedor full stack apaixonada por criar soluções web inovadoras. 
 
 ### ⚙️ Backend
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=php,laravel,c#" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,c#,java,phyton" />
 </div>
 
 ### 🗄️ Banco de Dados
